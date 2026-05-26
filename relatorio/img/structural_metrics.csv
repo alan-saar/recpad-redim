@@ -1,0 +1,4 @@
+Método,Trustworthiness,Continuity,Silhouette Score,Tempo de Execução (s)
+PCA,0.7319,0.9064,0.0238,0.1634
+t-SNE,0.9681,0.949,0.2909,3.434
+UMAP,0.9513,0.9533,0.349,12.8143

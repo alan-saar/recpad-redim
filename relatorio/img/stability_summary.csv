@@ -1,0 +1,5 @@
+,Trustworthiness,Trustworthiness,Continuity,Continuity,Silhouette Score,Silhouette Score,Tempo de Execução (s),Tempo de Execução (s),Semente,Semente
+,mean,std,mean,std,mean,std,mean,std,mean,std
+Método,,,,,,,,,,
+UMAP,0.9518,0.0005,0.9535,0.0004,0.3399,0.0065,6.7728,0.0887,87.0,30.2765
+t-SNE,0.9685,0.0004,0.9489,0.0001,0.292,0.0008,3.4827,0.0843,87.0,30.2765
